@@ -8,7 +8,6 @@ var Application = React.createClass({
 	render: function() {
 		return (
             <div className="application">
-                Test
                 <RouteHandler />
             </div>
           )
